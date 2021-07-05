@@ -2,10 +2,12 @@
 - 👀 I’m interested in video games, coding, dogs and cats and tech stuff.
 - 🌱 I’m currently learning JS/TS, React/Angular & and the vast bottomless ocean of game development with Unity.
 
-- On my TODO-list, when I have energy after full-time employment, is to get around basics of Dart/Flutter in Android App development.
+- On my TODO-list I have
+  - To get around basics of Dart/Flutter in Android App development.
+  - Learn Kotlin, probably some backend program.
 - I like to code frontend and backend.
 - I have basic experience in databases. Main usage is through ORMs and migrations.
-- I aspire to learn game development with Unity.
+- I aspire to learn game development with Unity and 3D modeling with Blender.
 
 <!---
 Cruci/Cruci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
