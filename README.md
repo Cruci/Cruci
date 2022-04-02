@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cruci
 - 👀 I’m like video games, JS/TS, C#, Flutter, dogs and cats and tech stuff.
-- 🌱 I’m currently developing a small app to learn Flutter.
+- 🌱 I’m currently developing an app to learn Flutter.
 - ✨ Learning some basics of 3D-modeling in Blender.
 
 - On my TODO-list I have
