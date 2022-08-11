@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Cruci
-- 👀 I’m like video games, JS/TS, C#, Flutter, dogs and cats and tech stuff.
-- 🌱 I’m currently developing an app to learn Flutter.
+- 👀 I like video games, JS/TS, C#, Flutter, dogs and cats and tech stuff.
+- 🌱 I’m currently learning how to make a game using Unreal Engine.
 - ✨ Learning some basics of 3D-modeling in Blender.
 
 - On my TODO-list I have
   - Learn Kotlin, probably some backend program.
+  
 - I like to code frontend, backend and mobile apps.
 - I have basic experience in databases and SQL. Main usage is through ORMs and migrations.
 
