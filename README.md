@@ -4,10 +4,9 @@
 - ✨ Learning some basics of 3D-modeling in Blender.
 
 - On my TODO-list I have
-  - Learn Kotlin, probably some backend program.
+  - Learn Kotlin, either a Hello World program with some Kotlin backend framework or a TODO-list with native Android.
   
-- I like to code frontend, backend and mobile apps.
-- I have basic experience in databases and SQL. Main usage is through ORMs and migrations.
+- I mainly code frontend and mobile apps. Sometimes I like to get my hands dirty on backend.
 
 <!---
 Cruci/Cruci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
